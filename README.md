@@ -29,7 +29,7 @@ Across my experiences writing a thesis on operating systems for embedded process
 |         C++         |              Java             |            Bash            |
 |         Rust        | JavaScript, TypeScript, React |            Linux           |
 |     ARM Assembly    |          HTML and CSS         |      AWS Cloud Services    |
-|     MIPS Assembly   |               SQL             |            LaTeX           |
+|        Verilog      |               SQL             |            LaTeX           |
 
 ---------
 
